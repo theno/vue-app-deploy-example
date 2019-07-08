@@ -1,6 +1,8 @@
 Replay of this blog post example:
 https://dev.to/saigowthamr/how-to-deploy-a-vue-app-to-github-pages-1ia
 
+Example-Page: https://theno.github.io/vue-app-deploy-example/
+
 ----
 
 # vue-app-deploy-example
