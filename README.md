@@ -1,3 +1,8 @@
+Replay of this blog post example:
+https://dev.to/saigowthamr/how-to-deploy-a-vue-app-to-github-pages-1ia
+
+----
+
 # vue-app-deploy-example
 
 ## Project setup
