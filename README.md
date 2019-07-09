@@ -3,6 +3,12 @@ https://dev.to/saigowthamr/how-to-deploy-a-vue-app-to-github-pages-1ia
 
 Example-Page: https://theno.github.io/vue-app-deploy-example/
 
+Deploy example page:
+
+```
+./deploy.sh
+```
+
 ----
 
 # vue-app-deploy-example
